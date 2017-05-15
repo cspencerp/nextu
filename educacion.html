@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <header>
+      <svg>
+        <img src="Images/Logo.svg" width="200px" align="left">
+      </svg>
+    </header>
+    <h1>HOJA DE VIDA</h1>
+      <h2>Datos Personales:</h2>
+        <h3>Christian B. Spencer Pinares</h3>
+        <h3>19 de Junio 1985</h3>
+        <h3>Arica - Chile</h3>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="educacion.html">Educación</a>
+      <a href="experiencia.html">Experiencia</a>
+    </nav>
+    <section>
+      <h2>Educación</h2>
+      <table border="1" cellpadding="0" cellspacing="0">
+        <thead>
+          <tr>
+            <th>Año</th>
+            <th>Institución</th>
+            <th>Lugar</th>
+            <th>¿Culminó?</th>
+          </tr>
+        </thead>
+        <tbody align="center">
+          <tr>
+            <td>2015</td>
+            <td>UNIACC</td>
+            <td>Santiago</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2008</td>
+            <td>UTA</td>
+            <td>Arica</td>
+            <td>No</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <form autocomplete="on" action="index.html" method="post">
+        <legend><strong>Agregar Estudios</strong></legend>
+        <p>
+          <label for="Tipo">Año</label>
+            <select name="Tipo">
+              <option value="">2017</option>
+              <option value="">2016</option>
+              <option value="">2015</option>
+              <option value="">2014</option>
+              <option value="">2013</option>
+              <option value="">2012</option>
+              <option value="">2011</option>
+              <option value="">2010 ó menos</option>
+            </select>
+        </p>
+        <p>
+          <label for="Institucion">Institución</label>
+          <input type="text" name="Institucion" placeholder="ej. NEXTU" required>
+        </p>
+        <p>
+          <label for="Lugar">Lugar</label>
+          <textarea name="Lugar" rows="2" cols="30"></textarea>
+        </p>
+        <p>
+          <label for="culmino">¿Culminó?</label>
+          <b>Si</b><input type="radio" name="culmino">
+          <b>No</b><input type="radio" name="culmino">
+        </p>
+        <p>
+        <input type="submit" name="Enviar" value="Enviar">
+        </p>
+      </form>
+    </section>
+    <footer>
+      <a href="https:www.facebook.com">Facebook</a>
+      <a href="mailto:christian_spencer@live.cl?subject=feedback">Contacto</a>
+    </footer>
+  </body>
+</html>

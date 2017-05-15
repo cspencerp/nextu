@@ -1,0 +1,16 @@
+<svg width="640" height="300" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="302" width="642" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" stroke="#000" transform="matrix(13.16863588262795,0,0,9.846262606801767,-349.2341975725906,-867.4735953236446) " xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_5" y="110" x="26.761761" stroke-opacity="null" stroke-width="0" fill="#ffd800">SPV</text>
+  <ellipse id="svg_7" cy="446" cx="134.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <path stroke="#000" id="svg_8" d="m4.5,228.450984l631.00003,0l0,44.999991l-631.00003,0l0,-44.999991z" stroke-opacity="null" stroke-width="0" fill="#ffd800"/>
+  <text stroke="#000" transform="matrix(3.3055673693555274,0,0,2.163706397154577,-1315.8008183178404,-426.3567304506236) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_6" y="321.446338" x="526.247511" stroke-opacity="null" stroke-width="0" fill="#ffffff">LTDA</text>
+  <path stroke="#000" id="svg_10" d="m488.977495,45.888123l41.500009,96.00001l41.500009,-96.00001l-83.000017,0z" stroke-opacity="null" stroke-width="0" fill="#ffd800"/>
+  <path stroke="#000" transform="rotate(51.262569427490234 383.53323364257807,250.89781188964847) " id="svg_13" d="m379.40916,208.397795l8.248142,0l0,85.000022l-8.248142,0l0,-85.000022z" stroke-opacity="null" stroke-width="0" fill="#ffffff"/>
+ </g>
+</svg>
